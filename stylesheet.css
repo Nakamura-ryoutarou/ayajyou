@@ -1,0 +1,51 @@
+header{
+ height:200px;
+ width: 100%;
+
+}
+main{
+ height: 3000px;
+ width: 100%;
+}
+footer{
+ height: 400px;
+ width: 100%;
+}
+.img1{
+  height: 150px;
+  width: 220px;
+}
+.img2{
+ height: 30px;
+ width: 48px;
+}
+.img3{
+ height: 45px;
+ width: 45px;
+}
+.header-logo{
+ height: 150px;
+ width: 220px;
+ display: inline-block;
+ padding: 25px 30px;
+ margin-left: 60px;
+
+}
+.header-login{
+ display: inline-block;
+ height: 50px;
+ width: 120px;
+ 
+}
+.header-cart{
+ display: inline-block;
+ height: 50px;
+ width: 120px;
+ 
+}
+.header-list{
+ float: right;
+ height: 100px;
+ padding: 50px 25px;
+
+}
